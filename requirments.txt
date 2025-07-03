@@ -4,3 +4,4 @@ datasets
 networkx
 matplotlib
 ipython
+scikit-learn
